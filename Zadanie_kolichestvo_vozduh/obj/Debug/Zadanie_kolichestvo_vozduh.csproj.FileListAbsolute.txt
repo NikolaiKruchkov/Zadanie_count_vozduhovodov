@@ -1,0 +1,6 @@
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\REVIT API\Задание 2.1\Zadanie_kolichestvo_vozduh\Zadanie_kolichestvo_vozduh\bin\Debug\Zadanie_kolichestvo_vozduh.dll
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\REVIT API\Задание 2.1\Zadanie_kolichestvo_vozduh\Zadanie_kolichestvo_vozduh\bin\Debug\Zadanie_kolichestvo_vozduh.pdb
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\REVIT API\Задание 2.1\Zadanie_kolichestvo_vozduh\Zadanie_kolichestvo_vozduh\obj\Debug\Zadanie_kolichestvo_vozduh.csproj.AssemblyReference.cache
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\REVIT API\Задание 2.1\Zadanie_kolichestvo_vozduh\Zadanie_kolichestvo_vozduh\obj\Debug\Zadanie_kolichestvo_vozduh.csproj.CoreCompileInputs.cache
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\REVIT API\Задание 2.1\Zadanie_kolichestvo_vozduh\Zadanie_kolichestvo_vozduh\obj\Debug\Zadanie_kolichestvo_vozduh.dll
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\REVIT API\Задание 2.1\Zadanie_kolichestvo_vozduh\Zadanie_kolichestvo_vozduh\obj\Debug\Zadanie_kolichestvo_vozduh.pdb

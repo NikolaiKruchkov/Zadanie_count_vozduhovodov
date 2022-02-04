@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Users\Nikryuchkov\Desktop\Revit\Zadanie_kolichestvo_vozduh.dll"</Assembly>		
+		<AddInId>17A9A44F-7505-4D0C-ABAE-A47BBD44F0E5</AddInId>	
+		<FullClassName>Zadanie_kolichestvo_vozduh.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Задание 2.1</Text>
+	</AddIn>
+</RevitAddIns>
